@@ -1,7 +1,7 @@
 const express = require("express")
 const app = express()
 const morgan = require("morgan")
-const cors = requre("cors")
+const cors = require("cors")
 
 app.use(cors())
 
